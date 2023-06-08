@@ -10,7 +10,9 @@ This repository contains a Power BI dashboard for analyzing COVID-19 data using 
 
 </ul>
 
-![Dashboard Snapshot](C:\Users\Rahul Thiru\Downloads)
+<img width="634" alt="Covid-19 1" src="https://github.com/RahulThiruvengadam/PortfolioProjects/assets/128221334/b7f00090-8fcc-42b5-baab-a2efd3402ba2">
+<img width="636" alt="Covid-19 2" src="https://github.com/RahulThiruvengadam/PortfolioProjects/assets/128221334/60a2c037-3b72-4178-9d6e-7db36e722302">
+
 
 ### Contact
 If you have any questions or inquiries, please feel free to reach out to me at rahul.t1412@yahoo.com.
