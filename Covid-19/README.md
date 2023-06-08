@@ -1,12 +1,14 @@
 This repository contains a Power BI dashboard for analyzing COVID-19 data using DAX queries. The dashboard provides multiple visualizations to gain insights into the impact of the pandemic. It includes a dropdown feature that allows users to select a specific country and time period to view COVID-19 cases.
 
 ### Features
-#### Country and Time Selection: <p>The dashboard offers a dropdown menu to select a particular country and time frame, enabling users to focus on specific data points of interest.</p>
+<ul>
+<li> **Country and Time Selection:** The dashboard offers a dropdown menu to select a particular country and time frame, enabling users to focus on specific data points of interest. </li>
 
-### COVID-19 Case Map: <p> A map visualization illustrates regions severely impacted by COVID-19, providing a geographical perspective of the spread. </p>
+<li> **COVID-19 Case Map:** A map visualization illustrates regions severely impacted by COVID-19, providing a geographical perspective of the spread. </li>
 
-###Graphs and Visualizations: The dashboard includes various graphs and visualizations that present crucial details associated with the pandemic. These include:
+<li> **Graphs and Visualizations:** The dashboard includes various graphs and visualizations that present crucial details associated with the pandemic. </li>
 
-Average Case Per Country: A graph displaying the average number of cases per country, allowing users to compare the severity across different regions.
+</ul>
 
-Total Cases: A visualization depicting the total number of COVID-19 cases over time, providing an overview of the overall impact.
+### Contact
+If you have any questions or inquiries, please feel free to reach out to me at rahul.t1412@yahoo.com.
