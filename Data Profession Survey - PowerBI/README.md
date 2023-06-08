@@ -15,7 +15,8 @@ The Data Professionals Survey Dashboard offers the following key features:
 
 <li> <strong>Reasons for Job Change:</strong> Insights into the reasons why data professionals may tend to seek new job opportunities. This analysis provides valuable information about the factors influencing job stability and career progression.</li>
   
- 
+ <img width="621" alt="DPS" src="https://github.com/RahulThiruvengadam/PortfolioProjects/assets/128221334/9cf1af21-b87a-446a-9d69-ef4d2bd8e7ce">
+
 </ul>
 
 ### Contact
